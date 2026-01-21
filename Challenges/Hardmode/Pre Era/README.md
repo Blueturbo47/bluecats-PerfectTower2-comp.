@@ -1,5 +1,9 @@
 # Pre-Era Challenge BP's
 
+
+MAINTAINED VERSION IS https://github.com/bluecats-Perfect-Tower-2/bluecats-PerfectTower2-comp./tree/main
+PLEASE USE THAT ONE INSTEAD
+
 All BP's here are made from Yoshi128986 unless stated otherwise (not all are pre-era, but they are as close as possible - Yoshi128986)
 
 No Accel = No Wave Streaming
